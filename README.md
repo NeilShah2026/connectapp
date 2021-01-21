@@ -3,7 +3,7 @@
     <img src="favicon/naruto.png" />
   </a>
 </p>
-<h1 align="center">Lightbox Photos Gallery</h1>
+<h1 align="center">EVDictionary App Landing</h1>
 
 <p align="center">
   <a href="https://github.com/meokisama/meokisama.github.io/blob/develop/LICENSE">
@@ -15,6 +15,45 @@
   </a>
 </p>
 
+### Overview
+An app landing website to introduce the EVDictionary application for "Java Programming" subject in UIT
+
+
+### Markup
+- Creative Design
+- Fully Responsive
+- Soft Page Transition
+- Amazing Hamburger Menu
+- Valid HTML5 - CSS3 files
+- Based on Bootstrap 4.x
+- Flowless CSS transition
+- Cross browsers support
+- Retina ready
+- Parallax backgrounds
+- Google fonts
+- Eye catching gradient layouts
+
+## General Markup
+The general template structure is the same throughout the template. Here is the general structure :
+```
+<!DOCTYPE html>
+<html lang="en">
+ 
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>App Landing</title>
+<link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon-16x16.png">
+<link rel="manifest" href="assets/favicon/site.webmanifest">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+    integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<link rel="stylesheet" href="assets/css/all.min.css">
+<link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+```
 
 ## Find me around the web 🌎:
 <a href="https://facebook.com/slytherinnn/"><img align="left" width="150" height="150" src="https://github.com/meokisama/meokisama/blob/master/image/2750554.png"> </a>
